@@ -1,1 +1,1 @@
-# FunctionalProgramming_Experiment
+# HUST CS Functional Programming Experiment
